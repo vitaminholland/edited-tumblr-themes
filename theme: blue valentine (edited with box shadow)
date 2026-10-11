@@ -14,7 +14,7 @@
 
 <!-- 
 
-theme: blue valentine (edited with box shadow)
+theme: blue valentine
 designed and coded by ghcstfaec
 see credits @ https://ghcstfaec.tumblr.com/credits
 
@@ -1464,8 +1464,6 @@ color: {color:Link Hover};
 
 <div class="sideblog-image"><img src="https://i.imgur.com/rBO2v4C.png"/></div>
 
-<div class="sideblog-icon"><i class="ri-user-heart-line"></i></div>
-
 </div>
 
 <div class="sideblog-details">
@@ -1485,8 +1483,6 @@ color: {color:Link Hover};
 
 <div class="sideblog-image"><img src="https://i.imgur.com/be0kyAf.png"/></div>
 
-<div class="sideblog-icon"><i class="ri-user-heart-line"></i></div>
-
 </div>
 
 <div class="sideblog-details">
@@ -1505,8 +1501,6 @@ color: {color:Link Hover};
 <div class="sisi-wrapper">
 
 <div class="sideblog-image"><img src="https://i.imgur.com/XmMD8kh.png"/></div>
-
-<div class="sideblog-icon"><i class="ri-user-heart-line"></i></div>
 
 </div>
 
